@@ -1,5 +1,5 @@
 {
-  "name": "brush-cpp",
+  "name": "@alexgorbatchev/brush-cpp",
   "version": "4.0.0",
   "description": "cpp brush module for SyntaxHighlighter.",
   "keywords": [
