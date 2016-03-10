@@ -1,7 +1,7 @@
 {
   "name": "brush-cpp",
   "version": "4.0.0",
-  "description": "foo brush module for SyntaxHighlighter.",
+  "description": "C++ brush module for SyntaxHighlighter.",
   "keywords": [
     "syntaxhighlighter",
     "brush",
